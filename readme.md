@@ -1,35 +1,35 @@
-# I'm David (DH)
-_Last updated March 2, 2024_
+# Hey there, I'm David (DH) 👋
+_Last updated June 18, 2025_
 
-Hello. My name is David, and I'm often referred to as DH. It's not a special nickname, mainly because there is always another David at companies I work. You can call me either, but never Dave (please).
+Hello! I'm David, though most people call me DH (mainly because there's always another David around). You can use either name, but please—never Dave! 😅
 
-I'm a designer, angel investor, and writer. This repo is public notes I'd like to share and open source to everyone. My ask is if you get something useful from this content to refer to it and provide attribution.
+I'm a **Software Designer** and **Angel Investor** passionate about tools that revolutionize the internet, with a focus on AI/ML, visual programming languages, and authoring tools. This repository serves as my digital garden—a collection of public notes, resources, and insights I'm excited to share with the world.
 
-There are three core areas in this repo:
-- [Resources](/resources): Content I've created that I feel comfortable calling my original work
-- [Recommendations](recommendations): Resources and content created by other people that had a profound impact on me. Nothing linked in here is my original work
-- [About Me](about-me): Links to things you can find out me, such as speaker bios, photos, etc
+## 🗂️ What's Inside
 
+- **[Resources](/resources)**: Original content and frameworks I've developed
+- **[Recommendations](/recommendations)**: Curated resources that have profoundly impacted my thinking
+- **[About Me](/about-me)**: Speaker bios, photos, and other professional materials
 
-## A bit about me
-- I work at [Replit](http://replit.com)
-- Before, I led design at Webflow, One Medical, and Black Pixel
-- My previous life was very focused on iOS and Mac design
+## 🚀 Current Focus
 
-## Connect
-I love connecting with humans and look forward to hearing from you
-* [Email](mailto:david@davidhoang.com)
-* [My website](http://davidhoang.com) built with [replit](http://replit.com)
-* I write a newsletter called [Proof of Concept](proofofconcept.pub)
-* [Twitter](http://twitter.com/davidhoang)
+- Building the future of creative tools and development environments
+- Angel investing in early-stage startups revolutionizing how we create and collaborate
+- Writing about design engineering and the intersection of AI and creativity
 
+## 💼 Professional Journey
 
-## Links
-Where I want you to find me
+- Previously led design at **Replit**, **Webflow**, **One Medical**, and **Black Pixel**
+- Deep background in iOS and Mac design from the early mobile era
+- Passionate about bridging design and engineering to create exceptional user experiences
 
-- [Figma](https://www.figma.com/@davidhoang)
-- [Read.cv](http://read.cv/davidhoang)
-- [Substack](https://www.proofofconcept.pub/)
+## 🌐 Let's Connect
 
----
-I'm open to feedback and contributions on this. If you have suggestions, spot a typo, or want to share an ideas submit a [GitHub issue](https://github.com/davidhoang/dh/issues).
+I love connecting with fellow creators, builders, and thinkers:
+
+- 📧 [Email](mailto:david@davidhoang.com) - Always open for interesting conversations
+- 🌍 [Personal Website](http://davidhoang.com) - Built with love and code
+- 📝 [Proof of Concept Newsletter](https://proofofconcept.pub) - Weekly insights on design and technology
+- 🐦 [Twitter](http://twitter.com/davidhoang) - Thoughts in real-time
+
+## 🔗 Find Me Around the Web
