@@ -1,15 +1,11 @@
 # Hey there, I'm David (DH)
-_Last updated June 18, 2025_
+_Last updated January 2, 2026_
 
 Hello! I'm David, though most people call me DH (mainly because there's always another David around). You can use either name, but please—never Dave!
 
-I'm a **Software Designer** and **Angel Investor** passionate about tools that revolutionize the internet, with a focus on AI/ML, visual programming languages, and authoring tools. This repository serves as my digital garden—a collection of public notes, resources, and insights I'm excited to share with the world.
+I'm a Designer and Investor passionate about tools that revolutionize the internet, with a focus on AI/ML, visual programming languages, and authoring tools. This repository serves as my digital garden—a collection of public notes, resources, and insights I'm excited to share with the world.
 
 ## What's Inside
-
-- **[Resources](/resources)**: Original content and frameworks I've developed
-- **[Recommendations](/recommendations)**: Curated resources that have profoundly impacted my thinking
-- **[About Me](/about-me)**: Speaker bios, photos, and other professional materials
 
 ## Current Focus
 
@@ -17,11 +13,12 @@ I'm a **Software Designer** and **Angel Investor** passionate about tools that r
 - Angel investing in early-stage startups revolutionizing how we create and collaborate
 - Writing about design engineering and the intersection of AI and creativity
 
-## Professional Journey
+## Selected writing
 
-- Previously led design at **Replit**, **Webflow**, **One Medical**, and **Black Pixel**
-- Deep background in iOS and Mac design from the early mobile era
-- Passionate about bridging design and engineering to create exceptional user experiences
+- [Career Reboot](https://www.davidhoang.com/writing/career-reboot) - Reflections on career transitions and growth
+- [Design Engineering](https://www.davidhoang.com/writing/design-engineering) - The intersection of design and engineering
+- [The four types of software in the future](https://www.davidhoang.com/writing/the-four-types-of-software-in-the-future) - A framework for understanding the future of software
+
 
 ## Let's Connect
 
